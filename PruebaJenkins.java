@@ -18,6 +18,7 @@ public class PruebaJenkins {
     public static void main(String[] args) {
         // TODO code application logic here
         //Prueba para jenkins
+	System.out.println(suma(2+3));
     }
     
 }
